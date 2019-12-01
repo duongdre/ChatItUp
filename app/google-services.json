@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "905006192973",
+    "firebase_url": "https://chatitup-8nov19.firebaseio.com",
+    "project_id": "chatitup-8nov19",
+    "storage_bucket": "chatitup-8nov19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905006192973:android:1952ed9616d7983a46bf04",
+        "android_client_info": {
+          "package_name": "com.example.chatitup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905006192973-26ef2np02b0d02hh6kpm8u9ur3qdrua3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatitup",
+            "certificate_hash": "a2aa312b4275b8836cb19d189eb50012d368c040"
+          }
+        },
+        {
+          "client_id": "905006192973-qoru6hbsoi2heg04ptg3kpc29ucgg7n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8w5yc5Wy5at4qi6ICunDPi6Y9OnR89A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905006192973-qoru6hbsoi2heg04ptg3kpc29ucgg7n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
