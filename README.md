@@ -1,2 +1,2 @@
 # ChatItUp
-Chatting App
+An Emulation of a sending message application
